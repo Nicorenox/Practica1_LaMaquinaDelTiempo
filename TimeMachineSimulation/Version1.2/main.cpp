@@ -137,9 +137,9 @@ int main() {
             lista.mostrarListaSimplificada();
             if (evento == "C") {
                 if (compartidos) {
-                    std::cout << "Se han compartido datos" << std::endl;
+                    std::cout << "Se ha viajado en el timepo y Se han compartido datos" << std::endl;
                 } else {
-                    std::cout << "No se han compartido datos" << std::endl;
+                    std::cout << "Se ha viajado en el timepo y No se han compartido datos" << std::endl;
                     while (true) {
                         if (esPrimo(datosA) && esPrimo(datosB) && datosA != datosB) {
                             Nodo* nuevoNodoA = new Nodo("A", "Einstein", datosA);
