@@ -23,7 +23,9 @@ The goal of this project is to create a simulation of a timeline that follows th
 ## Development Environment
 
 - This project was developed using Replit as the integrated development environment (IDE).
-
+- [Version 1.0](https://replit.com/join/qwhmpkftdr-nickolas10moren)
+- [Version 1.2](https://replit.com/join/nnveveznxn-nickolas10moren)
+    
 ## Author
 
 - Developed by [Nicolas Moreno Lopez](https://github.com/Nicorenox)
